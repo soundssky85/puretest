@@ -1,2 +1,2 @@
 # puretest
-Para testin
+Para testing
